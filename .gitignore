@@ -1,0 +1,17 @@
+# Local tool/checkouts and private operational material
+.tools/
+.upstream/
+__pycache__/
+*.pyc
+*.log
+*.bak
+*.pem
+*.key
+*.crt
+.env
+.env.*
+config.json
+profiles.json
+deployment.json
+SHA256SUMS
+*.zip
